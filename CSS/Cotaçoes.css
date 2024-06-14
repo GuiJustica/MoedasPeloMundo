@@ -1,0 +1,160 @@
+*{margin:0 auto}
+    
+    div.Tudo{
+        width:100%;
+        height:100.4vw;
+        background-color:#F5F5F5;
+             }
+
+    div.Titulo{
+        width: 70%;
+        height: 8vw;
+        background-color:#191970;
+              }
+   
+    div.LinhaEmCima{ 
+        width:70%;
+        height:0.6vw;
+        background-color:#DAA520
+                    }
+
+    div.FundoPrincipal{
+        width: 70%;
+        height:80vw;
+        background-color:white
+                      }
+
+    div.Cima{
+        width:100%;
+        height:5vw;
+        background-color:;
+              }
+
+    div.CimaE{
+        width:50%;
+        height:5vw;
+       
+        background-color:;
+        float:left
+              }
+
+    div.CimaD{
+        width:50%;
+        height:5vw;
+       
+        background-color:;
+        float:left
+              }
+
+    div.Graficos{
+        width:100%;        
+        height:10vw;
+        background-color :;
+               }
+
+    div.Grafico1{
+        width:50%;        
+        height:20vw;
+        background-color:;
+        float:left; 
+               } 
+               
+    div.Grafico2{
+        width:50%;        
+        height:20vw;
+        background-color:;
+        float:left 
+               }
+
+
+    div.Texto{
+        width:100%;
+        height:50vw;
+        background-color:
+    }          
+        
+
+    div.Linha1{
+        width: 100%;
+        height:0.6vw;
+        background-color:#c0c0c0;
+        clear:both
+    } 
+
+    div.Linha2{
+        width: 100%;
+        height:0.4vw;
+        background-color:#D3D3D3;
+        margin-top:0.2vw;
+        clear:both    
+               }
+    div.Linha3{
+        width: 100%;
+        height:0.3vw;
+        background-color:#DCDCDC;
+        margin-top:0.2vw;
+        clear:both    
+               }                     
+   
+    
+    div.LinhaEmbaixo{
+        width:100%;
+        height:0.6vw;
+        background-color:#DAA520;
+        margin-top:0.4vw;
+                    }                  
+
+    div.Rodape{
+        width:100%;
+        height:10vw;
+        background-color:#191970;        
+              }                                                                                                      
+
+                  
+    p.Titulo{padding-left:80px;padding-top:2%;font-size:5vw;font-family:"Agency FB";color:white;}  
+
+    p.Texto01{padding-top:3vw;padding-right:;text-align:center;font-size:1.5vw;font-family:"Agency FB";color:#008000;}
+
+    p.Texto02{padding-top:3vw;padding-left:;text-align:center;font-size:1.5vw;font-family:"Agency FB";color:#008000}
+
+    p.Escola{font-size:1.2vw;text-align: center;padding-top:1.5vw;color:white;}
+
+    p.Nome{font-size:1.2vw;text-align: center;padding-top:1.5vw;color:white;}
+
+    p.Titulo2{padding-top:3vw;padding-right:;text-align:center;font-size:2.5vw;font-family:"Agency FB";color:#008000;}
+
+    p.Texto03{text-align:justify;padding-top:3vw;padding-left:0.9vw;padding-right:0.8vw;font-size:1.1vw;font-family:"Courier"}
+
+    p.Texto04{text-align:justify;font-size:1.1vw;padding-left:0.9vw;padding-right:0.8vw;font-family:"Courier"}
+
+    p.Texto05{text-align:justify;font-size:1.1vw;padding-left:0.9vw;padding-right:0.8vw;font-family:"Courier"}
+
+    p.Per1{text-align:justify;font-size:1.1vw;padding-left:0.9vw;font-family:"Courier";color:#008000;font-weight:bold;}
+
+    p.Per2{text-align:justify;font-size:1.1vw;padding-left:0.9vw;font-family:"Courier";color:#008000;font-weight:bold}
+
+     p.Voltar{float:right;padding-right:2vw;padding-top:7vw;font-size:1vw}
+    
+
+    a.Voltar{text-decoration:none;color:blue;}  
+
+
+    img.Cotacoes{width:90%;height:90%;margin-top:vw;margin-left:2vw}
+
+    img.Cotacoes2{width:80%;height:90%;margin-top:vw;margin-left:3.5vw}
+       
+    
+
+
+     
+  
+
+    
+
+    
+
+
+     
+  
+
+   

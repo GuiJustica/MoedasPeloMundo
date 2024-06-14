@@ -1,0 +1,118 @@
+*{margin:0 auto}
+    
+
+    div.Tudo{
+        width:100%;
+        height:116.3vw;
+        background-color:#F5F5F5;
+             }
+
+    div.Titulo{
+        width: 70%;
+        height: 8vw;
+        background-color:#191970;
+              }
+   
+    div.LinhaEmCima{ 
+        width:70%;
+        height:0.6vw;
+        background-color:#DAA520
+                    }
+
+    div.FundoPrincipal{
+        width: 70%;
+        height:100vw;
+        background-color:white
+                      }
+
+    div.Cima{
+        width:100%;
+        background-color:;
+              }
+
+    div.Foto{
+    	width:15%;
+    	background-color:;
+    	float: left}          
+
+   div.CimaCima{
+    	width:100%;
+    	height:80vw;
+    	background-color:;
+                }
+
+    
+
+  	div.Informaçoes2{
+   		width:35%;
+   		height:8vw;
+   		background-color:;
+   		margin-top:0.4vw;
+   		float: left;   				
+   					} 					
+        
+        			                       
+  
+     
+    div.Linha1{
+        width: 100%;
+        height:0.6vw;
+        background-color:#c0c0c0;
+        clear:both
+    } 
+
+    div.Linha2{
+        width: 100%;
+        height:0.4vw;
+        background-color:#D3D3D3;
+        margin-top:0.2vw;
+        clear:both    
+               }
+    div.Linha3{
+        width: 100%;
+        height:0.3vw;
+        background-color:#DCDCDC;
+        margin-top:0.2vw;
+        clear:both    
+               }                    
+   
+    
+    div.LinhaEmbaixo{
+        width:100%;
+        height:0.6vw;
+        background-color:#DAA520;
+        margin-top:0.4vw;
+                    }                  
+
+    div.Rodape{
+        width:100%;
+        height:10vw;
+        background-color:#191970;        
+              }                                                                                                      
+
+                  
+   p.Titulo{padding-left:80px;padding-top:2%;font-size:5vw;font-family:"Agency FB";color:white;}  
+
+    p.TituloCon{text-align:center;padding-top:8vw;font-size:2.5vw;font-family:"Agency FB";color:#4169E1;}
+
+    p.Escola{font-size:1.2vw;text-align: center;padding-top:1.5vw;color:white;}
+
+    p.Nome{font-size:1.2vw;text-align: center;padding-top:1.5vw;color:white;}
+
+    p.NomePais{font-size:1.5vw;;color:black;margin-top:2vw}
+
+    p.MoedaPais{font-size:1.5vw;color:black;margin-top:0.2vw}
+
+    p.ISO{font-size:1.5vw;color:black;margin-top:0.2vw}
+
+    p.Obs{font-size:0.8vw;padding-top:5vw;padding-left:0.5vw}
+
+    p.Voltar{float:right;padding-right:2vw;padding-top:7vw;font-size:1vw}
+
+    a.Voltar{text-decoration:none;color:blue;}  
+
+
+
+    img.Bandeiras {width:9vw;height:  6vw;margin-left:1vw;margin-top:2.2vw}
+
+   

@@ -1,0 +1,203 @@
+*{margin:0 auto}
+*{box-sizing: border-box;}    
+    div.Tudo{
+        width:100%;
+        height:121.5vw;
+        background-color:#F5F5F5;
+             }
+
+  	div.Titulo{
+        width: 70%;
+      	height: 8vw;
+        background-color:#191970;
+              }
+   
+    div.LinhaEmCima{ 
+        width:70%;
+        height:0.6vw;
+        background-color:#DAA520
+                    }
+
+    div.FundoPrincipal{
+        width: 70%;
+        height:110vw;
+        background-color:white
+                      }
+
+    div.Cima{
+        width: 100%;
+        background-color:;
+              }
+
+    div.CimaEsquerdo{
+        width:50%;        
+        height:50%;
+        background-color:; 
+        float: left;        
+                    }
+
+    div.CimaDireito{
+        width:50%;        
+        height:50%;
+        background-color:; 
+        float: left;        
+                    }
+
+    div.Baixo{
+        width: 100%;
+        background-color:;
+
+             }
+
+    div.BaixoEsquerdo{
+        width:50%;        
+        background-color: ; 
+        float: left; 
+        padding-bottom: 5vw;       
+                    }
+
+    div.BaixoDireito{
+        width:50%;        
+        background-color:; 
+        float: left;     
+        padding-bottom:5vw;      
+                    }
+
+
+    div.Referencias{
+        width:25%;
+        background-color:;
+        float:right;
+        margin-right:2vw;
+        border: solid blue  2px;
+                  }                              
+
+    div.Linha1{
+        width: 100%;
+        height:0.6vw;
+        background-color:#c0c0c0;
+        clear:both
+    } 
+
+    div.Linha2{
+        width: 100%;
+        height:0.4vw;
+        background-color:#D3D3D3;
+        margin-top:0.2vw;
+        clear:both    
+               }
+    div.Linha3{
+        width: 100%;
+        height:0.3vw;
+        background-color:#DCDCDC;
+        margin-top:0.2vw;
+        clear:both    
+               }                     
+   
+    div.Contato{
+        width:100%;
+        height:10vw;
+        background-color:;        
+               }
+
+    div.ContatoEsquerda{
+        width:40%;
+        height:10vw;
+        background-color:;
+        float:left        
+                       }
+
+    div.ContatoMeio{
+        width:20%;
+        height:10vw;
+        background-color:;
+        float:left        
+                   }
+
+    div.ContatoDireita{
+        width:40%;
+        height:10vw;
+        background-color:;
+        float:left        
+                      } 
+    div.LinhaEmbaixo{
+        width:100%;
+        height:0.6vw;
+        background-color:#DAA520;
+        margin-top:0.4vw;
+                    }                  
+
+    div.Rodape{
+        width:100%;
+        height:10vw;
+        background-color:#191970;        
+              }                                                                                                      
+
+                  
+    p.Titulo{padding-left:80px;padding-top:2%;font-size:5vw;font-family:"Agency FB";color:white;}  
+
+	p.TituloHistoria{padding-top:7vw;font-size:2.5vw;font-family:"Agency FB";color:#008000;}
+
+	p.Historia{text-align:justify;padding-top:3vw;padding-left:0.2vw;font-size:1.1vw;font-family:"Courier"}
+
+    p.PaisesEMoedas{padding-top:0vw;padding-left:6vw;font-size:2.3vw;font-family:"Agency FB";color:#4169E1;}
+
+    p.PriComerc{padding-top:2.5vw;padding-left:7vw;font-size:2vw;font-family:"Agency FB";color:#008000;}
+
+    p.HistBr{padding-top:1vw;padding-left:9vw;color:#0073C4;font-size:2.5vw;font-family:Agency FB}
+
+    p.Bit{padding-top:1vw;padding-left:11vw;color:#DAA520;font-size:2.5vw;font-family:Agency FB}
+
+    p.Contatos{padding-top:1.5vw;text-align:center;font-size:2.5vw;font-family:"Agency FB";}
+   
+    p.Telefone{padding-top:7vw;text-align:center;font-size:1.8vw;font-family:"Agency FB";font-weight:bold}
+
+    p.Email{padding-top:7vw;text-align:center;font-size:1.8vw;font-family:"Agency FB";font-weight:bold}
+
+    p.Escola{font-size:1.2vw;text-align: center;padding-top:1.5vw;color:white;}
+
+    p.Nome{font-size:1.2vw;text-align: center;padding-top:1.5vw;color:white;}
+
+    p.Referencias{font-size:1.3vw;text-align:center;}
+
+
+    a.Referencias{text-decoration:none;color:blue;}
+
+    a.LeiaMais{text-decoration:none;color:blue;}
+
+    a.PaisesEMoedas{color:#008000;text-decoration: none}
+
+    a.PaisesEMoedas:hover{color:blue;text-decoration:underline;}
+
+    a.Principais{text-decoration:none;color:black;}
+
+    a.Principais:hover{color:blue;text-decoration:underline;}
+
+    a.Digital{color:#DAA520;text-decoration: none}
+
+    a.Digital:hover{color:blue;text-decoration:underline;}
+
+    a.CasaMoeda{color:#0073C4;text-decoration: none}
+
+    a.CasaMoeda:hover{color:blue;text-decoration:underline;}
+
+
+    
+    li{margin-left:6.5vw;font-size:1.6vw;padding-top:1vw;color:black;}
+
+
+    
+
+    img.CedulaMoeda{width:100%;height:18vw;margin-top:1vw;}  
+    img.Continentes{width:70%;height:15vw;margin-left:4.7vw;}
+    img.Bandeiras  {width:11%;height:4%;margin-left:0.2vw;}
+    img.CasaMoeda  {width:55%;height:14%;margin-top:1vw;margin-left:10vw}
+    img.Bit        {width:50%;margin-left:8vw;margin-top:2vw }
+
+
+
+
+     
+  
+
+   

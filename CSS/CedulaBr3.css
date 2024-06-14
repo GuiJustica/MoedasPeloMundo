@@ -1,0 +1,137 @@
+*{margin:0 auto}
+ 
+
+    div.Tudo{
+        width:100%;
+        height:157.2vw;
+        background-color:#F5F5F5;
+             }
+
+   div.Titulo{
+        width: 70%;
+        height: 8vw;
+        background-color:#191970;
+              }
+   
+    div.LinhaEmCima{ 
+        width:70%;
+        height:0.6vw;
+        background-color:#DAA520
+                    }
+
+    div.FundoPrincipal{
+        width:70%;
+        height:140vw;
+        background-color:white;
+                      }
+
+     div.Cruzeiro{
+        width:100%;
+        background-color:;
+                }
+
+    div.CruzadoNovo{
+        width:100%;
+        background-color:;
+    }
+
+
+    div.CruzeiroReal{
+        width:100%;
+        background-color:;
+        
+
+    }
+
+    div.Foto{
+        width:20%;
+        background-color:;
+        float: left}
+
+    
+         
+
+    div.Informaçoes1{
+        width:35%;
+        height:8vw;
+        background-color:;
+        margin-top:;
+        float: left;                
+                    }
+
+    div.Informaçoes2{
+        width:30%;
+        height:8vw;
+        background-color:;
+        margin-top:0.5vw;
+        float: left;                
+                    }                                                                  
+  
+     div.Linha1{
+        width: 100%;
+        height:0.6vw;
+        background-color:#c0c0c0;
+        clear:both
+    } 
+
+    div.Linha2{
+        width: 100%;
+        height:0.4vw;
+        background-color:#D3D3D3;
+        margin-top:0.2vw;
+        clear:both    
+               }
+    div.Linha3{
+        width: 100%;
+        height:0.3vw;
+        background-color:#DCDCDC;
+        margin-top:0.2vw;
+        clear:both    
+               }                     
+   
+    
+    div.LinhaEmbaixo{
+        width:100%;
+        height:0.6vw;
+        background-color:#DAA520;
+        margin-top:0.4vw;
+                    }                  
+
+    div.Rodape{
+        width:100%;
+        height:10vw;
+        background-color:#191970;        
+              }
+
+                  
+                  
+    p.Titulo        {padding-left:80px;padding-top:2%;font-size:5vw;font-family:"Agency FB";color:white;}  
+
+    p.NomeMoeda     {padding-left:3vw;padding-top:5vw;font-size:2.3vw;font-family:"Agency FB";color:#4169E1;}
+
+    p.NomeMoeda2    {padding-left:3vw;padding-top:39vw;font-size:2.3vw;font-family:"Agency FB";color:#4169E1;}
+
+    p.NomeMoeda3    {padding-left:3vw;padding-top:55vw;font-size:2.3vw;font-family:"Agency FB";color:#4169E1;}
+
+    p.NomePais      {font-size:1.3vw;;color:black;margin-top:2vw;margin-left:2vw}
+
+    p.MoedaPais     {font-size:1.3vw;color:black;margin-top:0.4vw;margin-left:2vw}
+
+    p.ISO           {font-size:1.3vw;color:black;margin-top:0.4vw;margin-left:2vw}
+
+    p.Informaçoes3  {text-decoration:none;color:blue;float:right;margin-right:5vw;margin-top:2vw;font-size:1vw}
+
+    p.Escola        {font-size:1.2vw;text-align: center;padding-top:1.5vw;color:white;}
+
+    p.Nome          {font-size:1.2vw;text-align: center;padding-top:1.5vw;color:white;}
+
+    
+    a.LeiaMais{text-decoration:none;color:blue;}
+    
+
+    img.CedulaCru       {width:90%;height:6vw;margin-left:3vw;margin-top:2vw}
+    img.CedulaCru2      {width:90%;height:6vw;margin-left:3vw;margin-top:2vw}
+    img.CedulaCruNovo2  {width:90%;height:6vw;margin-left:3vw;margin-top:2vw}
+    
+
+   

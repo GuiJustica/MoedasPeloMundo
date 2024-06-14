@@ -1,0 +1,140 @@
+*{margin:0 auto}
+    
+
+    div.Tudo{
+        width:100%;
+        height:101.5vw;
+        background-color:#F5F5F5;
+             }
+
+    div.Titulo{
+        width: 70%;
+        height: 8vw;
+        background-color:#191970;
+              }
+   
+    div.LinhaEmCima{ 
+        width:70%;
+        height:0.6vw;
+        background-color:#DAA520
+                    }
+
+    div.FundoPrincipal{
+        width: 70%;
+        height:90vw;
+        background-color:white
+                      }
+
+    div.Cima{
+        width:100%;
+        background-color:;
+              }
+
+    div.CimaEsquerdo{
+        width:10%;        
+        height:45vw;
+        background-color:; 
+        float: left;        
+                    }
+
+    div.CimaDireito{
+        width:85%;        
+        height:45vw;
+        background-color:; 
+        float: left;        
+                    }
+
+    div.Baixo{
+        width: 100%;
+        background-color:;
+
+             }
+
+    div.BaixoEsquerdo{
+        width:50%;        
+        background-color:; 
+        float: left; 
+               
+                    }
+
+    div.BaixoDireito{
+        width:50%;        
+        background-color:; 
+        float: left;     
+           
+                    }                
+
+     div.Linha1{
+        width: 100%;
+        height:0.6vw;
+        background-color:#c0c0c0;
+        margin-top:5vw; 
+        clear:both
+              } 
+
+    div.Linha2{
+        width: 100%;
+        height:0.4vw;
+        background-color:#D3D3D3;
+        margin-top:0.2vw;
+        clear:both    
+               }
+    div.Linha3{
+        width: 100%;
+        height:0.3vw;
+        background-color:#DCDCDC;
+        margin-top:0.2vw;
+        clear:both    
+               }                    
+   
+    
+     div.LinhaEmbaixo{
+        width:100%;
+        height:0.6vw;
+        background-color:#DAA520;
+        margin-top:0.4vw;
+                    }                  
+
+    div.Rodape{
+        width:100%;
+        height:10vw;
+        background-color:#191970;        
+                            } 
+                                                                                                   
+
+                  
+    p.Titulo{padding-left:80px;padding-top:2%;font-size:5vw;font-family:"Agency FB";color:white;}  
+
+    p.TituloHistoria{padding-top:7vw;padding-left:8vw;font-size:2.5vw;font-family:"Agency FB";color:#008000;}
+
+    p.Historia{text-align:justify;padding-top:3vw;padding-left:1vw;font-size:0.9vw;font-family:"Courier"}
+
+    p.Evolucao{padding-top:50vw;padding-left:7vw;font-size:2.5vw;font-family:"Agency FB";color:#008000;}
+
+    p.Escola{font-size:1.2vw;text-align: center;padding-top:1.5vw;color:white;}
+
+    p.Nome{font-size:1.2vw;text-align: center;padding-top:1.5vw;color:white;}
+
+    p.Voltar{float:right;padding-right:2vw;padding-top:7vw;font-size:1vw}
+    
+
+    a.Voltar{text-decoration:none;color:blue;}
+
+    
+
+    img.HM1  {width:100%;height:35vw;margin-top:5vw}
+    img.HM3  {width:8vw;height:5vw;margin-top:4vw;margin-left:4.5vw}
+    img.HM4  {width:7vw;height:5vw;margin-top:3vw;padding-left:0.5vw}
+    img.HM5  {width:6vw;height:5vw;margin-top:3vw;padding-left:0.5vw}
+    img.HM6  {width:6vw;height:5vw;margin-top:3vw;padding-left:0.5vw}
+    img.HM7  {width:7vw;height:5vw;margin-top:3vw;padding-left:0.5vw}
+    img.HM8  {width:7vw;height:5vw;margin-top:3vw;padding-left:0.5vw}
+    img.HM9  {width:7vw;height:5vw;margin-top:3vw;padding-left:0.5vw}
+    img.HM10 {width:7vw;height:5vw;margin-top:3vw;padding-left:0.5vw}    
+    
+
+
+     
+  
+
+   
